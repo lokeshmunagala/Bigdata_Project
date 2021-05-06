@@ -3,8 +3,8 @@
 
 ![Image of Yaktocat](https://github.com/badri449/Bigdata_Project/blob/master/png%20files/png%20files/Screen%20Shot%202021-05-06%20at%203.29.55%20PM.png)
 #  The Total Cases of COVID-19
-![Image of Yaktocat](https://github.com/badri449/Bigdata_Project/blob/master/png%20files/png%20files/heat%20map.png)
-# The Total Cases of COVID-19()
+![Image of Yaktocat](https://github.com/badri449/Bigdata_Project/blob/master/png%20files/png%20files/Screen%20Shot%202021-04-24%20at%2011.28.41%20PM.png)
+# The Total Cases of COVID-19(China,Spain,Italy,India,USA)
 ![Image of Yaktocat](https://github.com/badri449/Bigdata_Project/blob/master/png%20files/png%20files/5%20countries.png)
 # Stock Market Data
 ![Image of Yaktocat](https://github.com/badri449/Bigdata_Project/blob/master/png%20files/png%20files/Stocks.png)
