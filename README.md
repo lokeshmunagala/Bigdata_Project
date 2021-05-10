@@ -104,10 +104,9 @@ The Pandemic has resulted in an all time high unemployment rate in USA. Even tho
 
 
 # Team
-  ## 1) Badrinath Reddy Gujjula
-  [GitHub](http://github.com)
-  ## 2) Lokesh Munagala
-  ## 3) Susmita Karyakarte
+  #### 1) [Badrinath Reddy Gujjula](https://github.com/badri449)
+  #### 2) [Lokesh Munagala](https://github.com/lokeshmunagala)
+  #### 3) [Susmita Karyakarte](https://github.com/susmita97)
 
 # Support
 #### If you found this useful, please consider starring(★) the repo so that it can reach a broader audience.
