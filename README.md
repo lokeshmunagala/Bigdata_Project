@@ -102,18 +102,14 @@ As we can see from Figure 17 Personal Services sector like laundry and Saloons a
 # CONCLUSION
 The Pandemic has resulted in an all time high unemployment rate in USA. Even though it got better over the next few months some of the jobs lost in April are permanent losses. Government needs to to take steps in restoring the economy. PPF was a success according to the data It was a good step to implement PPf for the second time as it gives boost to small scale business. But even though policies are not biased based on Colour we have seen black business owners are much more worstly effected than white owners. Government needs to try to find the reason for this and take necessary steps. Travel data is also one sector which got effected mostly as it can bee seen from flight data. Now as more and more people are getting vaccinated once the situation stabilizes government should be more encouraging towards travel. One such way is incentivize people towards travel.
 
-Once we were done with all of data collection required for our analysis we realized the need for using big data infrastructure for preprocessing and the data and also the subsequent analysis that followed and hence Badrinath suggested the use of Google Colab. Colab is a free Jupyter notebook environment that runs entirely in the cloud.
-As we moved to the analysis part, Susmita noticed there was a data dictionary along with the CPS data that decoded the variable names of the columns present in the CPS microdata and also that the dataset could be used for finding out more information on how small businesses and restaurants have been affected due to COVID- 19 in the US. Badrinath went through the microdata explaining the 388 columns in CPS data noticed it provided data about the sectors to which the people who were interviewed belonged and could be segregated to find active business percentages. On analysis Badrinath noticed that sectors like Arts/Entertainment and Personal Services were most affected and remain affected until now upto some extent hence we collectively agreed to plot the data for these sectors.
 
-As we were visualizing the data, Badrinath realized that we could explain the trends observed in the data with the help of real life events and policies that were brought into place by the US govern- ment during that time such as the Paycheck Protection Program and many more and hence we agreed to show how the plots are affected before and after these programs were put into action. Sus- mita suggested to use The CPS data which contains demographic information about people such as their race and heritage. Many news outlets reported that the Black and Asian community werebeing affected more compared to the general population during the pandemic. Susmita suggested verifying whether we could observe such a trend in our data. Lokesh researched about the different policies and actions that were carried out by various governments around the world that helped us to predict the future trends of the US Economy.
+# Team
+  ## 1) Badrinath Reddy Gujjula
+  ## 2) Lokesh Munagala
+  ## 3) Susmita Karyakarte
 
-# REFERENCES
-#### [1] Trade Data From World Trade Organization
-#### [2] FlightDataFromflightradar24.com
-#### [3] GDP of USA sector wise from fred.stlouisfed.org
-#### [4] ShareMarket,GoldandOiltakenFromYahooFinance [5] Covid Data
-#### [6] CPSDataTakenfromcensus.gov
-#### [7] DepartmentofEconomics,UniversityofCalifornia,SantaCruzCalifornia,Robert Fairlie, Department of Economics, University of California, Santa Cruz, CA, 95064; Stanford University (Visiting Scholar), and NBER. on Small Scale Business
-#### [8] USCourtBlocksbanonH1bbyPriyankaSangani,ETBureau
-#### [9] PaycheckProtectionProgramDetailsfromUSsmallBusinessAdministration
-#### [10] Coronavirus:HowthepandemichaschangedtheworldeconomybyLoraJones, Daniele Palumbo and David Brown
+# Support
+#### If you found this useful, please consider starring(★) the repo so that it can reach a broader audience.
+
+# Report Link
+## ""
