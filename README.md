@@ -105,11 +105,16 @@ The Pandemic has resulted in an all time high unemployment rate in USA. Even tho
 
 # Team
   ## 1) Badrinath Reddy Gujjula
+  [GitHub](http://github.com)
   ## 2) Lokesh Munagala
   ## 3) Susmita Karyakarte
 
 # Support
 #### If you found this useful, please consider starring(★) the repo so that it can reach a broader audience.
 
+
 # Report Link
-## "https://github.com/badri449/Bigdata_Project/blob/master/png%20files/report.pdf"
+ "https://github.com/badri449/Bigdata_Project/blob/master/png%20files/report.pdf"
+
+# License
+This project is licensed under the MIT License. Feel free to create a Pull Request for adding implementations or suggesting new ideas to make the analysis more insightful
