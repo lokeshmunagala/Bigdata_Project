@@ -1,4 +1,4 @@
-# Effect of COVID-19 on Economy
+# Effect of COVID-19 on US Economy
 ![Image of Yaktocat](https://github.com/badri449/Bigdata_Project/blob/master/png%20files/png%20files/Screen%20Shot%202021-05-06%20at%203.30.06%20PM.png)
 #  DATA Used
 
