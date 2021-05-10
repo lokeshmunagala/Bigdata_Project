@@ -1,0 +1,9 @@
+1 - Unemployment of previously employed persons by sex and former occupation(thousands) - Annual 
+countries - spain,italy,usa
+2 - Unemployment by sex  and categoies of Unemployed persons(thousands) - quarterly
+countries - usa
+3 - Unemployment by sex, age and education (thousands) - Monthly
+countries - usa
+4 - unemployment of previously employed persons by sex,former economic activity(thousands)- Annual
+countries - usa,spain,hong kong china,macau china,italy
+
